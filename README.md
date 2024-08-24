@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=it-can-bee&show_icons=true&theme=tokyonight)](https://github.com/it-can-bee)
 
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-JeffyItweb%20-yello)]((https://www.zhihu.com/people/can-can-71-4))
-[![youtube](https://img.shields.io/badge/video-YouTube-red)](https://www.youtube.com/@Jeffy-s3n)
+[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-JeffyItweb3%20-yello)]((https://www.zhihu.com/people/can-can-71-4))
+[![youtube](https://img.shields.io/badge/Blog-博客园-red)](https://www.cnblogs.com/live-passion)
 
 [![Rust Python C](https://img.shields.io/badge/Rust/Python/C%20-blue)](https://www.cnblogs.com/live-passion) 
 ![](https://img.shields.io/badge/热爱-学习-yellow) 
