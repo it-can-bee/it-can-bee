@@ -1,5 +1,6 @@
 ## 不想学习 👋
 
+
 <!--
 **it-can-bee/it-can-bee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,6 +28,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/热爱-学习-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-red) 
 ![](https://img.shields.io/badge/爱好-技术追求-red)
+
 
 </div>
 
